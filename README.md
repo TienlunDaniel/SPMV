@@ -18,5 +18,5 @@ spmv code. It can be one of the following:<br/><br/>
 <br/>• -blockSize [threadBlockSize], this specifies the thread block size to be used.
 <br/>• -blockNum [threadBlockNum], this specifies the number of thread blocks to
 be used.
-
+<br/><br/>Note: Matrix Market file format is used since Martrix Market I/O library is used. <br/> Sample matrix cant.mtx and vector cantvec is provided.
 # Report is in a separate file
